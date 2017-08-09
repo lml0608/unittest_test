@@ -1,0 +1,9 @@
+Wed, 09 Aug 2017 14:20:04 demo1.py[line:19] DEBUG 这是demo1 debug日志记录
+Wed, 09 Aug 2017 14:20:04 demo1.py[line:21] INFO 这是demo1 info日志记录
+Wed, 09 Aug 2017 14:20:04 demo1.py[line:23] WARNING 这是demo1 warning日志记录
+Wed, 09 Aug 2017 14:22:52 demo1.py[line:19] DEBUG 这是demo1 debug日志记录
+Wed, 09 Aug 2017 14:22:52 demo1.py[line:21] INFO 这是demo1 info日志记录
+Wed, 09 Aug 2017 14:22:52 demo1.py[line:23] WARNING 这是demo1 warning日志记录
+Wed, 09 Aug 2017 14:24:48 demo1.py[line:19] DEBUG 这是demo1 debug日志记录
+Wed, 09 Aug 2017 14:24:48 demo1.py[line:21] INFO 这是demo1 info日志记录
+Wed, 09 Aug 2017 14:24:48 demo1.py[line:23] WARNING 这是demo1 warning日志记录

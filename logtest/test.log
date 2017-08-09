@@ -1,0 +1,30 @@
+2017-08-09 15:21:38,097 INFO    : this is information
+2017-08-09 15:21:38,098 WARNING : this is warning message
+2017-08-09 15:21:38,098 ERROR   : this is error message
+2017-08-09 15:21:38,098 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:21:38,098 CRITICAL: this is critical message
+2017-08-09 15:35:31,641 INFO    : this is information
+2017-08-09 15:35:31,641 WARNING : this is warning message
+2017-08-09 15:35:31,641 ERROR   : this is error message
+2017-08-09 15:35:31,641 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:35:31,641 CRITICAL: this is critical message
+2017-08-09 15:35:53,061 INFO    : this is information
+2017-08-09 15:35:53,061 WARNING : this is warning message
+2017-08-09 15:35:53,061 ERROR   : this is error message
+2017-08-09 15:35:53,061 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:35:53,062 CRITICAL: this is critical message
+2017-08-09 15:40:23,914 INFO    : this is information
+2017-08-09 15:40:23,915 WARNING : this is warning message
+2017-08-09 15:40:23,915 ERROR   : this is error message
+2017-08-09 15:40:23,915 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:40:23,915 CRITICAL: this is critical message
+2017-08-09 15:40:27,649 INFO    : this is information
+2017-08-09 15:40:27,649 WARNING : this is warning message
+2017-08-09 15:40:27,649 ERROR   : this is error message
+2017-08-09 15:40:27,649 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:40:27,649 CRITICAL: this is critical message
+2017-08-09 15:40:36,749 INFO    : this is information
+2017-08-09 15:40:36,750 WARNING : this is warning message
+2017-08-09 15:40:36,750 ERROR   : this is error message
+2017-08-09 15:40:36,750 CRITICAL: this is fatal message, it is same as logger.critical
+2017-08-09 15:40:36,750 CRITICAL: this is critical message
